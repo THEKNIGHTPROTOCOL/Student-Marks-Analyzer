@@ -1,0 +1,29 @@
+📋 All Student Records:
+
+ Roll No    Name  Maths  Science  English  Total  Average
+     101   Alice     85       90       78    253    84.33
+     102     Bob     76       80       69    225    75.00
+     103 Charlie     92       88       94    274    91.33
+     104   Diana     65       70       60    195    65.00
+     105   Ethan     88       85       82    255    85.00
+     106  Fatima     55       60       58    173    57.67
+     107  George     45       40       50    135    45.00
+     108   Helen     79       82       77    238    79.33
+     109  Ishaan     91       94       89    274    91.33
+     110    Jane     70       75       80    225    75.00
+
+🏆 Top Scorer(s) with 274 Marks:
+ Roll No    Name  Total
+     103 Charlie    274
+     109  Ishaan    274
+
+📊 Average Marks per Subject:
+Maths      74.6
+Science    76.4
+English    73.7
+dtype: float64
+
+⚠️ Students Below Average (Avg < 60):
+ Roll No    Name  Average
+     106  Fatima    57.67
+     107  George    45.00
