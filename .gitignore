@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv/
+.env
+venv/
+ENV/
+env/
+build/
+develop-eggs/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs and debugging
+*.log
+
+# Cache
+.cache/
+*.sqlite3
+*.db
+
+# PyInstaller
+*.spec
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
