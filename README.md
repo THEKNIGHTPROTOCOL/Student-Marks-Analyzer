@@ -26,16 +26,21 @@ A powerful Python-based analyzer that reads student marks from a CSV file, proce
 
 > Example:  
 
-| Marks CSV | Visualization |
-|---|----|----|--|---------|----|--|-------|
-Name|Math|Physics|Chemistry|Biology|English
-Alice|85|78|92|88|76
-Bob|67|59|75|60|70
-Charlie|90|82|88|85|89
-David|56|49|60|58|61
-Eva|72|69|80|75|78
+Here's your data presented in a **clean table format**:
 
+---
 
+### 📋 Student Marks Table
+
+| Name    | Math | Physics | Chemistry | Biology | English |
+| ------- | ---- | ------- | --------- | ------- | ------- |
+| Alice   | 85   | 78      | 92        | 88      | 76      |
+| Bob     | 67   | 59      | 75        | 60      | 70      |
+| Charlie | 90   | 82      | 88        | 85      | 89      |
+| David   | 56   | 49      | 60        | 58      | 61      |
+| Eva     | 72   | 69      | 80        | 75      | 78      |
+
+---
 
  ![Bar Graph]
 ![image](https://github.com/user-attachments/assets/38256728-0594-4af6-917e-9cd55d141fe6)
