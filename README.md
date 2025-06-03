@@ -40,7 +40,7 @@ A powerful Python-based analyzer that reads student marks from a CSV file, proce
 
 ---
 
- ![Bar Graph]
+### Bar Graph
 ![image](https://github.com/user-attachments/assets/38256728-0594-4af6-917e-9cd55d141fe6)
 
  
