@@ -45,15 +45,19 @@ A powerful Python-based analyzer that reads student marks from a CSV file, proce
 
  
 
+
+
 ---
 
-## 📂 Folder Structure
+### 📁 Project Folder Structure
 
-Student-Marks-Analyzer/
-│
-├── analyzer.py # Main logic
-├── marks.csv # Sample input file
-├── requirements.txt # Dependencies
-├── LICENSE # MIT License
-└── README.md # You're here!
+| File/Folder        | Description                              |
+| ------------------ | ---------------------------------------- |
+| `analyzer.py`      | Main logic of the analyzer               |
+| `marks.csv`        | Sample input CSV file with student marks |
+| `requirements.txt` | List of required dependencies            |
+| `LICENSE`          | MIT License for open-source use          |
+| `README.md`        | Project documentation (you are here!)    |
+
+---
 
