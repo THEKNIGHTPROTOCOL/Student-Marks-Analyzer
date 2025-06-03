@@ -28,7 +28,6 @@ A powerful Python-based analyzer that reads student marks from a CSV file, proce
 
 | Marks CSV | Visualization |
 |-----------|---------------|
-
 Name,Math,Physics,Chemistry,Biology,English
 Alice,85,78,92,88,76
 Bob,67,59,75,60,70
