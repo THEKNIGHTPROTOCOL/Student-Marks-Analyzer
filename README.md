@@ -22,7 +22,8 @@ A powerful Python-based analyzer that reads student marks from a CSV file, proce
 
 ## 📸 Screenshots
 
-> _*Add screenshots here when ready!*_  
+ ![WhatsApp Image 2025-06-03 at 15 34 15_27af77b1](https://github.com/user-attachments/assets/c94b23ad-af48-4121-b402-33d3f1aebb7e)
+
 > Example:  
 
 | Marks CSV | Visualization |
