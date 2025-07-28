@@ -1,4 +1,4 @@
-📋 All Student Records:
+📋 All Student Records: 
 
  Roll No    Name  Maths  Science  English  Total  Average
      101   Alice     85       90       78    253    84.33
