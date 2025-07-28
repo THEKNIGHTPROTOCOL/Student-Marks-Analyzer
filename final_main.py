@@ -1,7 +1,7 @@
 import pandas as pd
 from io import StringIO
 
-# Embedded CSV data
+# Embedded CSV data 
 data = """
 Roll No,Name,Maths,Science,English,Total,Average
 101,Alice,85,90,78,253,84.33
