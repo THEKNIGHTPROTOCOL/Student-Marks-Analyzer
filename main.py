@@ -5,7 +5,7 @@ import os
 
 DATA_FILE = "students.csv"
 
-class MarksAnalyzerApp:
+class MarksAnalyzerApp: 
     def __init__(self, root):
         self.root = root
         self.root.title("Student Marks Analyzer")
