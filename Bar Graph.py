@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Sample student marks data
+# Sample student marks data  
 data = {
     "Name": ["Alice", "Bob", "Charlie", "David", "Eva"],
     "Math": [85, 67, 90, 56, 72],
