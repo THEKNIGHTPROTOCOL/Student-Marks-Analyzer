@@ -1,6 +1,6 @@
 import pandas as pd
 from io import StringIO
- 
+   
 # Embedded CSV data 
 data = """
 Roll No,Name,Maths,Science,English,Total,Average
