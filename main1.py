@@ -1,4 +1,4 @@
-import pandas as pd   
+import pandas as pd    
 
 # Load the student data from CSV
 df = pd.read_csv('students.csv')
